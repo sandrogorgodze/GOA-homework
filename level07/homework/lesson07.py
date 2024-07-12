@@ -34,4 +34,3 @@ print("my name is sandro + surname + gorgodze + age + 12 + country  georgia + ga
 
 name = (input("enter your name"))
 print("happy birthday usser")
-
