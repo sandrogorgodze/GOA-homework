@@ -1,0 +1,12 @@
+p{
+    color: green;
+    border-radius: 15px;
+}
+
+button{
+    border-radius: 15px;
+    border: none;
+    color: rgb(0, 0, 0);
+    border-radius: 25px;
+    padding: 10px 20px;
+}

@@ -1,0 +1,24 @@
+h1 {
+    color: rgb(242, 242, 242);
+    text-align: center;
+}
+
+
+img{
+    background-image: url(./website\ wallpaper.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+body{
+    background-color: black;
+}
+
+button:hover{
+    border-radius: 15px;
+    position: relative 1s;
+    border: none;
+    color: purple;
+    border-radius: 25px;
+  padding: 10px 20px;
+}
