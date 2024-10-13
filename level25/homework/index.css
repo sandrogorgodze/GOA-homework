@@ -1,0 +1,33 @@
+h1{
+    margin-left: 730px;
+    color: rgb(7, 139, 0);
+    font-size: 100px;
+}
+
+b{
+   color: chartreuse;
+font-size: 30px;
+}
+
+img{
+height: 650px;
+
+}
+
+h2{
+    color: darkgreen;
+    font-size: 30px;
+}
+
+   
+button{
+    background-color: darkgreen;
+    border-radius: 25px;
+    margin-left: 500px;
+
+
+} 
+
+h2{
+color: chartreuse;
+}
