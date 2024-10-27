@@ -1,0 +1,11 @@
+video{
+    height: 250px;
+}
+button{
+    color: green;
+    border-radius:35px ;
+    background-color: black;
+}
+h2{
+    font-size: 25px;
+}

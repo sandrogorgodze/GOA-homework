@@ -1,0 +1,40 @@
+h1{
+    color:chartreuse;
+    background-color: chocolate;
+    margin-left: 450px;
+    margin-right: 490px;
+    border-radius: 35px;
+    font-size:55px;
+}
+
+label{
+    margin-left: 600px;
+    font-size:25px ;
+    color: chartreuse;
+    background-color: chocolate;
+    border-radius: 35px;
+}
+
+input{
+    margin-left:650px ;
+    color: chartreuse;
+    background-color: chocolate;
+    border-radius: 35px;
+}
+
+
+button{
+    color: darkgreen;
+    background-color: coral;
+    border-radius: 35px;
+    margin-left:690px;
+}
+
+li{
+    font-size: 20px;
+}
+
+img{
+    margin-left:1200px;
+    
+}

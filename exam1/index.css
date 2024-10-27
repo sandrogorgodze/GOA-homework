@@ -1,0 +1,16 @@
+p{
+    color: chartreuse;
+    font-size: 30px;
+}
+
+h3{
+    font-size:20px;
+    color: chartreuse;
+}
+
+button{
+    color: rgb(22, 174, 22);
+    background-color: rgb(233, 83, 28);
+    border-radius: 35px;
+    margin-left:690px;
+}
