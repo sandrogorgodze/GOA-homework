@@ -1,0 +1,1 @@
+products_and_numbres = ['tomato',3,'potato','ketchup,maynoise',6,2,'fries',25,'pizza',4,93,'dough',243,'lobiani','khawapuri',]
